@@ -5,7 +5,7 @@ body {
 
 /* ---- particles.js container ---- */
 
-.home-area {
+  .home-area {
   position: absolute;
   width: 100%;
   height: 100%;
